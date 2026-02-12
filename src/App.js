@@ -10,15 +10,12 @@ import {
   Modal, 
   ModalOverlay, 
   ModalContent, 
-  ModalBody, 
-  ModalFooter, 
   useDisclosure,
   Image,
   Input,
   FormControl,
   FormLabel,
   useToast,
-  Divider,
   Flex
 } from '@chakra-ui/react';
 import { motion } from 'framer-motion';
