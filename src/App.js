@@ -318,7 +318,7 @@ function App() {
           </VStack>
         </VStack>
 
-        {/* meow */}
+        {/* meow streak of da daye */}
         <Modal isOpen={isOpen} onClose={onClose} isCentered size="md">
           <ModalOverlay backdropFilter="blur(4px)" />
           <ModalContent bg="transparent" boxShadow="none">
